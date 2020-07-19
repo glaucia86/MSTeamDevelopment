@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAleQtKkGJQk20sbxFrNsclAAAAAACAAAAAAADZgAAwAAAABAAAACFQrAUXvOehbQhV5dJCeEtAAAAAASAAACgAAAAEAAAADl477jUFrUDK4sqWql/60eAAAAA04SN35CerZtDa0A4YO3pozq34WRpYCrBZ/v8mc2cy2m6r8iQNjd0KZ+vn05yaVNjjjYn7WVyORtfw7sI8pMJM43GPq9WKBiBYUyVkFWDIxZeQoStMc8W3NUiF+HKDNJDvfAFZMzH1yecLMa+Li4BIuI/w5TPt5Hq+aZZpsmf1mEUAAAAx2xmSbXl8BB2oUSD5zwsdhXdnYg=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-077.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/30/2020 20:25:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
